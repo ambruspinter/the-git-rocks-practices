@@ -1,1 +1,1 @@
-# the-git-rocks-practices
+# The git is actually rocking
